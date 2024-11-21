@@ -37,6 +37,6 @@ Este proyecto implementa un sistema de autenticación básico en PHP utilizando 
 
 ## Instrucciones de Instalación
 
-1. Clona este repositorio:
-[
-   git clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/Javigarcilop/sistema-autenticacion-php.git)
+Clona este repositorio:
+ ```bash
+git clone https://github.com/Javigarcilop/sistema-autenticacion-php.git
